@@ -17,7 +17,7 @@ MongoDB, MySQL, Firebase, Bootstrap, Media Queries, APIs, REST, AJAX.
 
 ### PROJECTS
 
-**Crystal Collector App** | https://sharmap1.github.io/Crystal-Collector/. | _2019- 2020_
+**Crystal Collector App** | https://sharmap1.github.io/Crystal-Collector/. _2019- 2020_
 
 - This is a fun game where there will be given a random number at the start of the game.
   There are four crystals, by clicking on a crystal specific amount of points will be added to total score.
@@ -42,20 +42,18 @@ MongoDB, MySQL, Firebase, Bootstrap, Media Queries, APIs, REST, AJAX.
 
 ### EXPERIENCE
 
-**Sales Associate** _05 / 16 – Till Date_
-Macy’s Inc. Seattle, WA
+**Sales Associate**, _05 / 16 – Till Date_, Macy’s Inc. Seattle, WA
 
 ```
-Provided outstanding customer experience by anticipating customer needs and is always focusing on prompt fulfillment
-selling which is one of the highest revenue generators.
+Provided outstanding customer experience by anticipating customer needs and is always focusing on prompt
+fulfillment selling which is one of the highest revenue generators.
 ```
 
 Key Accomplishments:
 
 - “Recognized by manager, for commitment to customers, for communicating with 30 customers and opening 5 credits in a day.”
 
-**Training Expert** _02 / 09 - 09 / 14_
-Ncell Pvt. Ltd. Kathmandu, Nepal
+**Training Expert**, _02 / 09 - 09 / 14_, Ncell Pvt. Ltd. Kathmandu, Nepal
 
 ```
 Conducted leadership training to First – level managers. Conducted and coordinated IDP’s as per the
@@ -66,8 +64,7 @@ Key Accomplishments:
 
 - “Rewarded for the successful implementation of Performance Management Software (Success Factor) launch in Ncell in 2013.”
 
-**Assistant Manager-Training** _12 / 02 - 01 / 08_
-Hyatt Regency Kathmandu Kathmandu, Nepal
+**Assistant Manager-Training**, _12 / 02 - 01 / 08_, Hyatt Regency Kathmandu Kathmandu, Nepal
 
 ```
 Delivered Hyatt training Modules and Orientation Program to all employees.
