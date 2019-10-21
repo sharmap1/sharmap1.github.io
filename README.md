@@ -1,9 +1,9 @@
 # PRASAMSHA SHARMA
 
-Seattle, WA 98199 Phone: 206-519-8877 | Email: prasamshari@gmail.com
-"https://www.linkedin.com/in/prasamsha-sharma-a87169154/"Linkedin |
-"https://github.com/sharmap1 "GitHub |
-"https://sharmap1.github.io/Bootstrap-Portfolio/."
+Seattle, WA 98199 | Phone: 206-519-8877 | Email: prasamshari@gmail.com |
+"https://www.linkedin.com/in/prasamsha-sharma-a87169154/" | Linkedin |
+"https://github.com/sharmap1 " | GitHub |
+"https://sharmap1.github.io/Bootstrap-Portfolio/." | Portfolio |
 
 ### FULL STACK WEB DEVELOPER
 
@@ -58,8 +58,8 @@ Key Accomplishments:
 Ncell Pvt. Ltd. Kathmandu, Nepal
 
 ```
-Conducted leadership training to First – level managers. Conducted and coordinated IDP’s as per the annual performance management
-for all employees.
+Conducted leadership training to First – level managers. Conducted and coordinated IDP’s as per the
+annual performance management for all employees.
 ```
 
 Key Accomplishments:
@@ -79,17 +79,19 @@ Delivered Hyatt training Modules and Orientation Program to all employees.
 _University of Washington, Seattle, WA_
 
 ```
-An intensive 24-week long boot camp dedicated to designing and building web applications. Skills learned consisted of HTML5,
-CSS3, JavaScript, jQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS.
+An intensive 24-week long boot camp dedicated to designing and building web applications. Skills learned
+consisted of HTML5,CSS3, JavaScript, jQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express,
+Handelbars.js & ReactJS.
 ```
 
 **Human Resources Certificate:**
 _Michigan State University, Ann Arbor, MI(online)_
 
 ```
-An intensive 8- weeks long course dedicated to learning strategy development and strategy implementation, the legal environment,
-Job Analysis and Design, Employee Recruitment and Selection, Compensation Planning and Management, Training and Performance Management,
-Benefits and Labor Relations and Strategic HR Management.
+An intensive 8- weeks long course dedicated to learning strategy development and strategy implementation,
+the legal environment,Job Analysis and Design, Employee Recruitment and Selection, Compensation Planning
+and Management, Training and Performance Management, Benefits and Labor Relations and Strategic
+HR Management.
 ```
 
 ### PROFESSIONAL TRAINING
