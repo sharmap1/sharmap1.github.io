@@ -1,13 +1,11 @@
-# <PRASAMSHA SHARMA text-align="center">
+# PRASAMSHA SHARMA 
 
-<p text-align="center">
 
 Seattle, WA 98199 Phone: 206-519-8877 | Email: prasamshari@gmail.com<br>
 <a href="https://www.linkedin.com/in/prasamsha-sharma-a87169154/">Linkedin</a> |
 <a href="https://github.com/sharmap1 ">GitHub</a> |
 <a href="https://github.com/sharmap1/Bootstrap-Portfolio">Portfolio</a>
 
-</p>
 
 ### FULL STACK WEB DEVELOPER
 
