@@ -41,24 +41,6 @@ MongoDB, MySQL, Firebase, Bootstrap, Media Queries, APIs, REST, AJAX.
 - Developed the app using GIPHY API, JavaScript, jQuery, AJAX, JSON, Google Fonts.
 
 
-**Human Resources Certificate:**
-_Michigan State University, Ann Arbor, MI(online)_
-
-```
-An intensive 8- weeks long course dedicated to learning strategy development and strategy implementation,
-the legal environment,Job Analysis and Design, Employee Recruitment and Selection, Compensation Planning
-and Management, Training and Performance Management, Benefits and Labor Relations and Strategic
-HR Management.
-```
-
-### PROFESSIONAL TRAINING
-
-- Promise (Journey to Self) , _TeliaSonera - 2014 - Georgia_
-- Project Management Basics , _PMI (Project Management Institute) - 2012 - George Washington University_
-- Performance Management Software, _TeliaSonera - 2012 - Turkey_
-- Essentials of Management, _Conducted by TeliaSonera - 2009 - Sweden_
-- Harvard Manage Mentor, _"Giving and Receiving Feedback" - 2005 - online_
-
 License
 MIT
 
