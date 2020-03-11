@@ -3,7 +3,7 @@
 Seattle, WA 98199 | Phone: 206-519-8877 | Email: prasamshari@gmail.com |
 "https://www.linkedin.com/in/prasamsha-sharma-a87169154/" | Linkedin |
 "https://github.com/sharmap1 " | GitHub |
-"https://sharmap1.github.io/Bootstrap-Portfolio/." | Portfolio |
+
 
 ### FULL STACK WEB DEVELOPER
 
@@ -40,46 +40,6 @@ MongoDB, MySQL, Firebase, Bootstrap, Media Queries, APIs, REST, AJAX.
   on the page.
 - Developed the app using GIPHY API, JavaScript, jQuery, AJAX, JSON, Google Fonts.
 
-### EXPERIENCE
-
-**Sales Associate**, _05 / 16 – Till Date_, Macy’s Inc. Seattle, WA
-
-```
-Provided outstanding customer experience by anticipating customer needs and is always focusing on prompt
-fulfillment selling which is one of the highest revenue generators.
-```
-
-Key Accomplishments:
-
-- “Recognized by manager, for commitment to customers, for communicating with 30 customers and opening 5 credits in a day.”
-
-**Training Expert**, _02 / 09 - 09 / 14_, Ncell Pvt. Ltd. Kathmandu, Nepal
-
-```
-Conducted leadership training to First – level managers. Conducted and coordinated IDP’s as per the
-annual performance management for all employees.
-```
-
-Key Accomplishments:
-
-- “Rewarded for the successful implementation of Performance Management Software (Success Factor) launch in Ncell in 2013.”
-
-**Assistant Manager-Training**, _12 / 02 - 01 / 08_, Hyatt Regency Kathmandu Kathmandu, Nepal
-
-```
-Delivered Hyatt training Modules and Orientation Program to all employees.
-```
-
-### EDUCATION
-
-**Bootcamp Certificate in Full Stack Web Development:**
-_University of Washington, Seattle, WA_
-
-```
-An intensive 24-week long boot camp dedicated to designing and building web applications. Skills learned
-consisted of HTML5,CSS3, JavaScript, jQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express,
-Handelbars.js & ReactJS.
-```
 
 **Human Resources Certificate:**
 _Michigan State University, Ann Arbor, MI(online)_
